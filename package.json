@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MeMartijn/Cognito2RDS/issues"
   },
-  "homepage": "https://github.com/MeMartijn/Cognito2RDS#readme"
+  "homepage": "https://github.com/MeMartijn/Cognito2RDS#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
 }
