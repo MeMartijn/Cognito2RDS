@@ -1,0 +1,26 @@
+{
+  "name": "cognito2rds",
+  "version": "1.0.0",
+  "description": "Lambda function as a post-confirmation trigger to add a new Cognito user to a PostgreSQL database hosted on AWS RDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeMartijn/Cognito2RDS.git"
+  },
+  "keywords": [
+    "aws",
+    "cognito",
+    "rds",
+    "postgresql",
+    "lambda"
+  ],
+  "author": "Martijn Schouten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeMartijn/Cognito2RDS/issues"
+  },
+  "homepage": "https://github.com/MeMartijn/Cognito2RDS#readme"
+}
